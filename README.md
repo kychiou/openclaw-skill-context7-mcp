@@ -66,10 +66,6 @@ User: App Router basics?
 AI: Resolves Next.js library → Queries documentation → Returns current API info
 ```
 
-## Supported Libraries
-
-Next.js, React, Vue, Android Compose, Python, Go, Rust, and 100+ more!
-
 ## License
 
 MIT
